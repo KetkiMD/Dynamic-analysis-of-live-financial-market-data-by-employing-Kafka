@@ -1,0 +1,1 @@
+# Dynamic-analysis-of-live-financial-market-data-by-employing-Kafka
